@@ -12,4 +12,4 @@
 
 **Thoughts**: I know I'm not supposed to count time spent on online courses as my hour of coding, but I've got limited time. And I haven't used JavaScript in a while so I need to freshen up my skills. Today's work covered familiar things and new-to-me syntax. For instance, I was reminded of how to use data attributes, but I learned for the first time about using the CSS selector "transition" and the event listener "transitionend." 
 
-**Link to work**: I'm not going to push my own finish code for these JavaScript30 projects, but anyone interested can see Wes Bos's examples (here)[https://github.com/wesbos/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit].  
+**Link to work**: I'm not going to push my own finish code for these JavaScript30 projects, but anyone interested can see Wes Bos's examples [here](https://github.com/wesbos/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit).  
