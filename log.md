@@ -12,7 +12,7 @@
 
 **Thoughts**: I know I'm not supposed to count time spent on online courses as my hour of coding, but I've got limited time. And I haven't used JavaScript in a while so I need to freshen up my skills. Today's work covered familiar things and new-to-me syntax. For instance, I was reminded of how to use data attributes, but I learned for the first time about using the CSS attribute "transition" and the event listener "transitionend." 
 
-**Link to work**: I'm not going to push my own finish code for these JavaScript30 projects, but anyone interested can see Wes Bos's examples [here](https://github.com/wesbos/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit).  
+**Link to Work**: I'm not going to push my own finish code for these JavaScript30 projects, but anyone interested can see Wes Bos's examples [here](https://github.com/wesbos/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit).  
 
 ### Day 2: Dec. 30, 2017
 
@@ -21,3 +21,11 @@
 **Thoughts**: It was another day of review plus new learning. Reviewed material included the querySelector method (also reviewed on Day 1) and working with Date() and setting time intervals. New to me was using the CSS "transform" and "transition-timing-function" attributes. It's funny that the focus of these exercises is on JavaScript, but a lot of what I'm learning is about CSS. At the same time, of course, I'm refreshing my knowledge of vanilla JavaScript and its syntax, methods and interaction with the DOM. (Side note: Because the focus is on vanilla JS, the course uses, as Wes Bos writes, "No Frameworks, No Compilers, No Libraries, No Boilerplate.")  
 
 **Link to Work**: Here's [Wes Bos's code for this exercise](https://github.com/wesbos/JavaScript30/tree/master/02%20-%20JS%20and%20CSS%20Clock). I promise to start sharing my own as soon as I start to work on stuff that's more original.
+
+### Day 3: Jan. 1, 2018
+
+**Today's Progress**: I completed the third exercise in JavaScript30. This one covered CSS variables, and using JavaScript to update their values.
+
+**Thoughts**: I missed a day yesterday because I was traveling cross-country, and of course there were delays. As for today, I confess my head is spinning a little after the lesson on CSS variables. I understand the concept just fine, but I'm going to have to review the CSS syntax more to internalize it. As for the JavaScript used to update those variables, I'm trying to wrap my head around such syntax/usage as `this.dataset.[attr]`, `document.documentElement.[elem].[method]`, and `${this.[attr]}` (an ES6 concept). I know, I just need to practice using these things to learn and memorize them, but all were new to me today or in recent days.
+
+**Link to Work**: Here's [Wes Bos's code for this exercise](https://github.com/wesbos/JavaScript30/tree/master/03%20-%20CSS%20Variables).
